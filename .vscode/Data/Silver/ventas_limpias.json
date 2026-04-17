@@ -1,0 +1,10 @@
+{
+    "ventas": [
+        "CAMISA",
+        "100",
+        "PANTALON",
+        "ZAPATOS",
+        "50.5"
+    ],
+    "errores": []
+}
