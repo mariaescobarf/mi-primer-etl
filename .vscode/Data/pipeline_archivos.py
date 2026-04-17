@@ -42,3 +42,5 @@ def ejecutar_pipeline():
 
 if __name__ == "__main__":
     ejecutar_pipeline()
+
+#Comentario para ensayar guardar cambios en git.
